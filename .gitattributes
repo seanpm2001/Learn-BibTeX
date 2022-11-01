@@ -111,7 +111,7 @@
 *.wiki linguist-documentation=false
 *.wiki linguist-language=WikiText
 # BibTeX
-*.bib linguist-detectable=false
+*.bib linguist-detectable=true
 *.bib linguist-documentation=false
 *.bib linguist-language=BibTeX
 # TeX
